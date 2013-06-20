@@ -1,6 +1,7 @@
-Hello, World!
+# To setup
+$ npm install
 
-Foo
-Bar
+# To build
+$ grunt
 
 Add a new line
