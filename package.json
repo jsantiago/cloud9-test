@@ -1,0 +1,10 @@
+{
+    "name": "cloud9-test",
+    "version": "0.0.1",
+    "devDependencies": {
+        "grunt": "0.4.x",
+        "grunt-contrib-concat": "0.3.x",
+        "grunt-contrib-uglify": "0.2.x",
+        "grunt-contrib-cssmin": "0.6.x"
+    }
+}
